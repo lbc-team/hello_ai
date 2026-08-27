@@ -11,7 +11,7 @@ client = OpenAI(
 )
 
 response = client.chat.completions.create(
-    model="deepseek-chat",
+    model="deepseek-v4-flash",
     messages=[
         {"role": "system", "content": "你是一个翻译助手，帮我将用户给出的英文翻译为中文"},
         {"role": "user", "content": "Ethereum is a decentralized network"},

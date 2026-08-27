@@ -4,7 +4,7 @@
 
 ```bash
 
-# 默认使用 ARM64 原生 Python 3.11 创建虚拟环境
+# 默认使用 ARM64 原生 Python 3.12 创建虚拟环境
 python -m venv myenv 或 uv venv myenv --python 3.12
 
 # 激活虚拟环境
