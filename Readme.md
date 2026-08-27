@@ -21,3 +21,13 @@ cp env_sample .env
 ```
 
 修改 `DEEPSEEK_API_KEY`
+
+## 运行示例
+
+```bash
+# 单轮对话 Demo
+python simple_chat.py
+
+# 多轮对话 Demo
+python multi_chat.py
+```
