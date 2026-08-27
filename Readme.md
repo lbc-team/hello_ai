@@ -33,4 +33,7 @@ python multi_chat.py
 
 # 工具调用 (Tool Calls / Function Calling) Demo
 python tool_call.py
+
+# Responses API + Web Search 服务端联网搜索 Demo
+python web_search_responses.py
 ```
