@@ -30,4 +30,7 @@ python simple_chat.py
 
 # 多轮对话 Demo
 python multi_chat.py
+
+# 工具调用 (Tool Calls / Function Calling) Demo
+python tool_call.py
 ```
